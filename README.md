@@ -4,7 +4,7 @@ This repository is for CS 207 interactive Gadgets project. The two-wheeled mobil
 
 
 
-# Repository Comtemts:
+# Repository Content:
  - /build
    -/Project Code
    -/Bluetooth Code
